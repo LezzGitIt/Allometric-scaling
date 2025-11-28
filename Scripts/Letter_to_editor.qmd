@@ -1,6 +1,6 @@
 ---
 title: "Letter to editor"
-format: docx
+format: pdf
 editor: visual
 toc: false
 bibliography: ../Supp_files/Morphology.bib
@@ -14,9 +14,9 @@ Thank you for your consideration of my article 'Beyond Bergmann and Allen: A Uni
 
 # Synopsis
 
-I begin with a review of the literature in the last 5 years to determine how often Bergmann's and Allen's rules have been analyzed in concert vs. in isolation. Of 86 papers that met the criteria for inclusion, half analyzed Bergmann's and Allen's rules in isolation, highlighting the need for a unified approach. I then highlight what we risk by analyzing these rules in isolation – drawing heavily on 2 recent papers published in *Nature Communications* [@frohlichAllometryRevealsTradeoffs2023; @baldwinComplementarityAllensBergmanns2023], as well as the broader literature. Specifically, I argue that studies focusing on one rule or the other, but not both in concert, are unable to consider fundamental, biologically compelling processes likely to underpin thermoregulation, including 1) trade-offs - where the studied trait (e.g., body size) is functionally constrained and thus doesn’t respond to temperature; 2) complementarity - combined changes to size and shape that together constitute important adjustments to the surface area–to–volume ratio, and finally, 3) interactions - codependency between size and shape that jointly determine organismal response across temperature gradients.
+I begin with a review of the literature in the last 5 years to determine how often Bergmann's and Allen's rules have been analyzed in concert vs. in isolation. Of 86 papers that met the criteria for inclusion, half analyzed Bergmann's and Allen's rules in isolation, highlighting the need for a unified approach. I then highlight what we risk by analyzing these rules in isolation – drawing heavily on two recent papers published in *Nature Communications* [@frohlichAllometryRevealsTradeoffs2023; @baldwinComplementarityAllensBergmanns2023], as well as the broader literature. Specifically, I argue that studies focusing on one rule or the other, but not both in concert, are unable to consider fundamental, biologically compelling processes likely to underpin thermoregulation, including 1) trade-offs - where the studied trait (e.g., body size) is functionally constrained and thus doesn’t respond to temperature; 2) complementarity - combined changes to size and shape that together constitute important adjustments to the surface area–to–volume ratio, and finally, 3) interactions - codependency between size and shape that jointly determine organismal response across temperature gradients.
 
-In the final section, I argue that the potential for trade-offs, complementarity, and interactions is not restricted to morphology, but also extends to physiology, coloration, phenology, and behavior to meet thermoregulatory needs [e.g. trade-offs in @briscoeBergmannMeetsScholander2015; complementarity in @he2023global; and interactions in @playa-montmanyBehaviouralPhysiologicalResponses2023]. Thus, a natural next step is to formalize a broader Thermo-Adaptive Framework, encompassing any adaptive thermoregulatory approach. This framework is not an explicit rule that can be tested in the way that the Thermo-Morpho rule could be, but is better regarded as a conceptual framework that highlights the potential for trade-offs, complementarity, and interactions amongst adaptive thermoregulatory approaches. This paper serves as a call to action to explicitly consider trade-offs, complementarity, and interactions between Bergmann’s and Allen’s rules, and to work towards a broader Thermo-Adaptive framework to sharpen predictions of biological responses to a warming world.
+In the final section, I argue that the potential for trade-offs, complementarity, and interactions is not restricted to morphology, but also extends to physiology, coloration, phenology, and behavior to meet thermoregulatory needs [e.g. trade-offs in @briscoeBergmannMeetsScholander2015; complementarity in @he2023global; and interactions in @playa-montmanyBehaviouralPhysiologicalResponses2023]. Thus, a natural next step is to formalize a broader Thermo-Adaptive Framework, encompassing any adaptive thermoregulatory approach. This framework is not an explicit rule that can be tested in the way that the Thermo-Morpho rule could be, but is better regarded as a conceptual framework that highlights the potential for trade-offs, complementarity, and interactions amongst adaptive thermoregulatory approaches. This paper serves as a call to action that will help sharpen scientists' predictions of biological responses to a warming world.
 
 # Background
 
@@ -32,7 +32,7 @@ If the editors think this paper has potential for publication in *Nature Communi
 
 If the editors believe a longer Perspective would be appropriate, I believe the present contribution could be easily and usefully expanded to include:
 
-1.  a quantitative synthesis of how frequently recent studies test for trade-offs, complementarity, or interactions between Bergmann's and Allen's rules versus simply testing them in parallel;
+1.  a quantitative synthesis of how frequently the 50% of studies that examined both Bergmann's and Allen's rules tested for trade-offs, complementarity, or interactions, versus simply testing the two rules in parallel;
 
 2.  an assessment of how frequently studies in our lit review extended analyses to physiology, coloration, phenology, and behavior;
 
@@ -40,7 +40,11 @@ If the editors believe a longer Perspective would be appropriate, I believe the 
 
 4.  a synthesis of conservation implications.
 
-Alternatively, if you believe a Comment or Matters Arising piece is most appropriate, I would be happy to streamline the .
+Alternatively, if you believe a Comment or Matters Arising piece is most appropriate, I would be happy to shorten the paper.
+
+# Acknowledgements
+
+Thank you to Justin Baldwin and Arkadiusz Fröhlich for permitting the use of their excellent conceptual figures. Thank you to M Lynne Cooper for her help and advice throughout the review process, as well as important feedback on earlier versions of this article.
 
 {{< pagebreak >}}
 
